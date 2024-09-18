@@ -44,7 +44,3 @@ O JavaScript implementa a lógica da calculadora, gerenciando a entrada do usuá
 - **Inserção de Números**: Aceita números inteiros e decimais (usando vírgula).
 - **Reset**: Limpa todos os valores e resultados.
 - **Cálculo de Porcentagem**: Calcula porcentagens relativas ao valor atual.
-
-## Conclusão
-
-Esta calculadora é um exemplo funcional de como utilizar HTML, CSS e JavaScript para criar uma aplicação interativa. A implementação de funcionalidades matemáticas básicas, juntamente com uma interface limpa, torna este projeto um bom ponto de partida para desenvolvedores iniciantes.
