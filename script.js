@@ -113,7 +113,7 @@ botoes.forEach((botao) => {
     botao.addEventListener("click", () => {
         const txtBotao = botao.innerText;
 
-        if (/^[0-9]+$/.test(txtBotao)) {
+        if (/^[0-9,]+$/.test(txtBotao)) {
             addDigito(txtBotao);
         } else if (["+", "×", "÷", "-"].includes(txtBotao)) {
             defineOperador(txtBotao);
