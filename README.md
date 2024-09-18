@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma calculadora simples desenvolvida com HTML, CSS e JavaScript. A interface é amigável e permite a realização de operações matemáticas básicas como adição, subtração, multiplicação e divisão. Além disso, a calculadora suporta a inserção de números com vírgula como separador decimal. Desenvolvido com o objetivo de ser uma proposição de solução referente ao desafio profissional de pós graduação da Pós Graduação em Desenvolvimento Web Full Stack na Faculdade Anhanguera.
+Este projeto é uma calculadora simples desenvolvida com HTML, CSS e JavaScript. A interface é amigável e permite a realização de operações matemáticas básicas como adição, subtração, multiplicação e divisão. Além disso, a calculadora suporta a inserção de números com vírgula como separador decimal. Desenvolvido com o objetivo de ser uma proposição de solução referente ao desafio profissional da Pós Graduação em Desenvolvimento Web Full Stack na Faculdade Anhanguera.
 
 ## Estrutura do Projeto
 
